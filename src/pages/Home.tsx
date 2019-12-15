@@ -18,6 +18,7 @@ const Home: React.FC = () => {
           </a>{' '}
           will be your guide.
         </p>
+        {/* <DjClass></DjClass> */}
       </IonContent>
     </IonPage>
   );
